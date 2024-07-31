@@ -8,12 +8,15 @@
     <p>
 
 # Communications strategy
-- skill: Web
+- skill: Front-end
   description: <p>
-    Front<br>
-    <span style="padding-left: 20px;"> vue.js<br>
-      typescript<br>
-      quasar<br></span>
+    vue.js
+    typescript<br>
+    quasar<br>
+    <p>
+
+- skill: Back-end
+  description: <p>
     Back<br>
     node.js(express)<br>
     python(fastapi)<br>
