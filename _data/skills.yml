@@ -10,16 +10,23 @@
 # Communications strategy
 - skill: Front-end
   description: <p>
-    vue.js
+    vue.js<br>
     typescript<br>
     quasar<br>
     <p>
 
 - skill: Back-end
   description: <p>
-    Back<br>
     node.js(express)<br>
     python(fastapi)<br>
+    <p>
+
+- skill: Source Control
+  description: <p>
+    git<br>
+    vscode<br>
+    svn<br>
+    bitbucket<br>
     <p>
 
 # Digital content development and creation
