@@ -11,9 +11,9 @@
 - skill: Web
   description: <p>
     Front<br>
-    vue.js<br>
-    typescript<br>
-    quasar<br>
+    <span style="padding-left: 20px;"> vue.js<br>
+      typescript<br>
+      quasar<br></span>
     Back<br>
     node.js(express)<br>
     python(fastapi)<br>
