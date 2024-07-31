@@ -1,15 +1,27 @@
 # Skills
 # Organizational leadership
 - skill: Basic Language
-  description: <p>
+  description: 
+  <p>
     C/C++<br>
     MFC<br>
     C#<br>
-    <p>
+  <p>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Web
+  description: 
+  <p>
+    Front<br>
+      - vue.js<br>
+      - typescript<br>
+      - quasar<br>
+    Backend<br>
+      - node.js<br>
+      - express<br>
+      - python<br>
+  <p>
+
 
 # Digital content development and creation
 - skill: Digital content development and creation
