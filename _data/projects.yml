@@ -11,20 +11,20 @@
   # url: "#"
   description: aaaaa
 
-  - project: CSTP(Cyber Security Testing Program)
+- project: CSTP(Cyber Security Testing Program)
   role: 풀스택 개발
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
   description: aaaaa
 
-  - project: Devops CI/CD 자동화구축
+- project: Devops CI/CD 자동화구축
   role: TF매니저 및 개발
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
   description: aaaaa
 
 ############### CorelinSoft ###############
-  - project: Devops CI/CD 자동화구축
+- project: Devops CI/CD 자동화구축
   role: TF매니저 및 개발
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
