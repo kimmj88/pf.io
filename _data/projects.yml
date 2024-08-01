@@ -1,31 +1,50 @@
 ############### Autocrypt ###############
 - project: Network Policy Generator Tool개발
-  role: 풀스택 개발
+  role: 풀스택 개발(vue.js, typescript, nodejs, express, sqlite)
   duration: 2024.05 &mdash; Present
   # url: "#"
   description: aaaaa
 
 - project: CAN Policy Generator Tool개발
-  role: 풀스택 개발
+  role: 풀스택 개발(quasar, vue.js, typescript, nodejs, express, sqlite)
   duration: 2024.01 &mdash; 2024.05
   # url: "#"
   description: aaaaa
 
 - project: CSTP(Cyber Security Testing Program)
-  role: 풀스택 개발
+  role: 풀스택 개발(C#, python, fastapi, postgresql)
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
   description: aaaaa
 
 - project: Devops CI/CD 자동화구축
-  role: TF매니저 및 개발
+  role: TF매니저 및 개발(jenkins, bitbucket, sonarQube, coverity, superset, powerautomate)
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
   description: aaaaa
 
 ############### CorelinSoft ###############
-- project: Devops CI/CD 자동화구축
-  role: TF매니저 및 개발
-  duration: 2023.05 &mdash; 2024.01
+- project: 솔루션 시스템 장애감지 서버개발
+  role: back-end 개발(nodejs, typescript, slack)
+  duration: 2022.05 &mdash; 2022.08
+  # url: "#"
+  description: aaaaa
+
+- project: Database Migration 툴개발
+  role: clinet개발(C/C++, mongodb, sqlite, ms-sql, postgresql)
+  duration: 2021.7 &mdash; 2022.04
+  # url: "#"
+  description: aaaaa
+
+  ############### INFINITT Healthcare ###############
+- project: PACS솔루션 개발
+  role: back-end 개발(C/C++, MFC)
+  duration: 2015.04 &mdash; 2021.02
+  # url: "#"
+  description: aaaaa
+
+- project: Database 설계 및 튜닝
+  role: Database 개발(Oracle)
+  duration: 2015.04 &mdash; 2021.02
   # url: "#"
   description: aaaaa
