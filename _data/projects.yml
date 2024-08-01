@@ -28,7 +28,7 @@
   role: back-end 개발(nodejs, typescript, slack)
   duration: 2022.05 &mdash; 2022.08
   # url: "#"
-  description: 폐암검진AI시스템에 문제가 장애발생시에 이를 탐지하여 본사고객상담팀 고객대응시스템에 알람할 수 있도록 인터페이스 할 수 있는 notification서버를 개발하였습니다.
+  description: 폐암검진AI시스템에 장애발생시 문제가되는 부분을 탐지하여 본사고객상담팀 고객대응시스템에 알람할 수 있도록 인터페이스 할 수 있는 notification서버를 개발하였습니다.
 
 - project: Database Migration 툴개발
   role: clinet개발(C/C++, mongodb, sqlite, ms-sql, postgresql)
