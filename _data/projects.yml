@@ -3,19 +3,19 @@
   role: 풀스택 개발(vue.js, typescript, nodejs, express, sqlite)
   duration: 2024.05 &mdash; Present
   # url: "#"
-  description: snort 네트워크 침임감지 시스템 설정파일을 생성하는 툴을 개발하였습니다.<br><br>snort시스템을 서버에 구동하기위해서는 .lua파일, .rules파일이 필요합니다. Network Policy Generator Tool은 간단한 UI조작으로 원하는 module, rule을 선택하여 generate된 구성파일들을 다운로드 할 수 있습니다. 다운로드한 구성파일을 다이렉트로 snort시스템에 적용하여 사용 할 수 있습니다.
+  description: snort 네트워크 침임감지 시스템 설정파일을 생성하는 툴을 개발하였습니다.<br>snort시스템을 서버에 구동하기위해서는 .lua파일, .rules파일이 필요합니다. Network Policy Generator Tool은 간단한 UI조작으로 원하는 module, rule을 선택하여 generate된 구성파일들을 다운로드 할 수 있습니다. 다운로드한 구성파일을 다이렉트로 snort시스템에 적용하여 사용 할 수 있습니다.
 
 - project: CAN Policy Generator Tool개발
   role: 풀스택 개발(quasar, vue.js, typescript, nodejs, express, sqlite)
   duration: 2024.01 &mdash; 2024.05
   # url: "#"
-  description: 자동차 DBC파일을 파싱하여 감지목록에 대한 rule을 설정하여 설정한 정책파일을 다운로드 할 수 있는 툴입니다.<br><br>자동차에는 can통신을 원활히 할 수 있도록 네트워크정보를 담고있는 .dbc파일이 존재합니다. Can Policy Generator Tool로 다운로드한 policy 정책파일을 제어기에 온보딩하여 외부 사이버공격에 대한 침입을 감지 할 수 있는 외부 툴입니다.
+  description: 자동차 DBC파일을 파싱하여 감지목록에 대한 rule을 설정하여 설정한 정책파일을 다운로드 할 수 있는 툴입니다.<br>자동차에는 can통신을 원활히 할 수 있도록 네트워크정보를 담고있는 .dbc파일이 존재합니다. Can Policy Generator Tool로 다운로드한 policy 정책파일을 제어기에 온보딩하여 외부 사이버공격에 대한 침입을 감지 할 수 있는 외부 툴입니다.
 
 - project: CSTP(Cyber Security Testing Platform)
   role: 풀스택 개발(C#, python, fastapi, postgresql)
   duration: 2023.05 &mdash; 2024.01
   # url: "#"
-  description: 자동자 보안취약점을 검증할 수 있는 사이버보안 기본테스팅 솔루션입니다.<br><br>python기반으로 testcase가 구성되어 있으며 각 프로토콜마다 python script구성된 테스트를 진행하게 되며, can, eth, bluethooth, wifi같은 네트워크 통신할 수 있는 프로토콜장비에 보안취약점을 확인 할 수 있는 컴팩트 테스팅 솔루션을 개발 하였습니다.
+  description: 자동자 보안취약점을 검증할 수 있는 사이버보안 기본테스팅 솔루션입니다.<br>python기반으로 testcase가 구성되어 있으며 각 프로토콜마다 python script구성된 테스트를 진행하게 되며, can, eth, bluethooth, wifi같은 네트워크 통신할 수 있는 프로토콜장비에 보안취약점을 확인 할 수 있는 컴팩트 테스팅 솔루션을 개발 하였습니다.
 
 - project: Devops CI/CD 자동화구축
   role: TF매니저 및 개발(jenkins, bitbucket, sonarQube, coverity, superset, powerautomate)
