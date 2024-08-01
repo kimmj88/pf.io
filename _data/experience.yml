@@ -3,19 +3,16 @@
 - company: Autocrypt
   position: Fuzzer Tool팀 - 과장
   duration: 2023.03 ~ 재직중
-  summary: 
-  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: CorelineSoft
   position: 운영개발팀 - 과장
   duration: 2021.02 ~ 2023.02
-  summary: 
-
+  summary:
 
 # Communications Coordinator
 - company: INFINITT Healthcare
   position: PACS개발1팀 - 주임
   duration: 2015.04 ~ 2021.02
-  summary: DICOM표준 의료영상(CT, MRI) 네트워크 전송 및 관리 솔루션 신규개발&유지보수
-  <ul class="resume-item-list"><li>windows client개발</li><li>windows service개발</li><li>oracle database 설계/튜닝</li></ul>
+  summary: DICOM표준 의료영상(CT, MRI) 네트워크 전송 및 관리 솔루션 신규개발&유지보수<ul class="resume-item-list"><li>windows client개발</li><li>windows service개발</li><li>oracle database 설계/튜닝</li></ul>
