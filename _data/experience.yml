@@ -1,7 +1,7 @@
 - company: 회사명:Autocrypt
   position: 소속/직급:Fuzzer Tool팀(과장)
   duration: <p>2023.03 ~ 재직중<p>
-  summary: 자동차 사이버보안 검증툴 개발<ul class="resume-item-list"><li>windows client개발</li><li>python fastapi resfulapi 서버개발</li><li>postgresql database 설계</li>
+  summary: 자동차 사이버보안 검증툴 개발<ul class="resume-item-list"><li>windows client개발</li><li>python fastapi resfulapi 서버개발</li><li>node.js express resfulapi 서버개발</li><li>vue.js electron desktop개발</li><li>postgresql database 설계</li>
 
 - company: 회사명:CorelineSoft
   position: 소속/직급:운영개발팀(과장)
