@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: 비트컴퓨터
+  uni: 선문비트 고급과정
+  year: 2011 &mdash; 2012
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: .net framework 과정 수료
+  summary: C, C++, C#, WPF, Oracle, ms-sql
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 영국어학연수
+  uni: Embassy Brighton University
+  year: 2014 &mdash; 2015
+  awards:
+    - award: 대학원 준비과정 어학연수
+  summary: -
